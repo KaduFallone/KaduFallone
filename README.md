@@ -1,16 +1,35 @@
-## Hi there 👋
+# Who I am
 
-<!--
-**KaduFallone/KaduFallone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a Computer Science student at UNIFEG (Centro Universitário da Fundação Educacional Guaxupé), a university in the small city of Guaxupé, Minas Gerais, Brazil.
+- I am currently a **full stack trainee** at a company that sells a sales force automation SaaS.
+- 
+![Stats](https://github-readme-stats.vercel.app/api?username=KaduFallone&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFallone&layout=compact&theme=tokyonight)
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Technology | Usage                |
+|------------|----------------------|
+| HTML       | Frontend             |
+| CSS        | Frontend             |
+| TypeScript | Frontend and Backend |        
+| JavaScript | Backend              |
+| Node.js    | Backend              |
+| Git        | Version control      |
+| GitHub     | Code hosting         |
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,ts,angular,js,nodejs,express,git,github)](https://skillicons.dev)
+
+## Skills
+
+### Backend
+- Node.js
+- JavaScript
+- REST APIs
+- Express
+
+### Frontend
+- HTML
+- CSS
+- TypeScript
+- Angular
