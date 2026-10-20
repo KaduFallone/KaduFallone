@@ -2,14 +2,14 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Carlos%20Fallone&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=520&lines=Full+Stack+Trainee;Computer+Science+Student+%40+UNIFEG;Learning+Machine+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=520&lines=Full+Stack+Internship;Computer+Science+Student+%40+UNIFEG;Learning+Machine+Learning)
 
 </div>
 
 ## Who I am
 
 - I am a Computer Science student at UNIFEG (Centro Universitário da Fundação Educacional Guaxupé), a university in the small city of Guaxupé, Minas Gerais, Brazil.
-- I am currently a **full stack trainee** at a company that sells a sales force automation SaaS.
+- I am currently a **full stack internship** at a company that sells a sales force automation SaaS.
 - I'm also studying **machine learning**, practicing with Kaggle datasets (linear regression, decision trees, Naive Bayes and random forests).
 
 ## Tech Stack
