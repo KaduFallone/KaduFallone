@@ -1,35 +1,65 @@
-# Who I am
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Carlos%20Fallone&fontSize=50&animation=fadeIn&fontAlignY=38)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&center=true&vCenter=true&width=520&lines=Full+Stack+Trainee;Computer+Science+Student+%40+UNIFEG;Learning+Machine+Learning)
+
+</div>
+
+## Who I am
 
 - I am a Computer Science student at UNIFEG (Centro Universitário da Fundação Educacional Guaxupé), a university in the small city of Guaxupé, Minas Gerais, Brazil.
 - I am currently a **full stack trainee** at a company that sells a sales force automation SaaS.
- 
-![Stats](https://github-readme-stats.vercel.app/api?username=KaduFallone&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFallone&layout=compact&theme=tokyonight)
+- I'm also studying **machine learning**, practicing with Kaggle datasets (linear regression, decision trees, Naive Bayes and random forests).
 
 ## Tech Stack
 
-| Technology | Usage                |
-|------------|----------------------|
-| HTML       | Frontend             |
-| CSS        | Frontend             |
-| TypeScript | Frontend and Backend |        
-| JavaScript | Backend              |
-| Node.js    | Backend              |
-| Git        | Version control      |
-| GitHub     | Code hosting         |
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,ts,angular,js,nodejs,express,git,github)](https://skillicons.dev)
 
-## Skills
+**Also worked with**
 
-### Backend
-- Node.js
-- JavaScript
-- REST APIs
-- Express
+[![Other Skills](https://skillicons.dev/icons?i=java,mysql,py,sklearn,firebase)](https://skillicons.dev)
 
-### Frontend
-- HTML
-- CSS
-- TypeScript
-- Angular
+## Featured Projects
+
+| Project | Description | Built with |
+|---------|-------------|------------|
+| [LibrarySystem](https://github.com/KaduFallone/LibrarySystem) | Desktop library system using OOP and the MVC pattern (books, magazines, newspapers and readers). Presented at UNIFEG on April 28, 2026. | Java, Swing |
+| [Cozine Compiler](https://github.com/KaduFallone/Cozine-Compilador-) | Compiler for *Cozine*, a kitchen-themed teaching language. Runs lexical, syntactic and semantic analysis, then generates C++. | Python, C++ |
+| [API CRUD](https://github.com/KaduFallone/API_CRUD_) | REST API for a to-do list with full CRUD, validation middleware and a MySQL database. | Node.js, Express, MySQL |
+| [Product Manager](https://github.com/KaduFallone/Gerenciado_de_produtos) | Product management app with list, create, edit and delete screens. | Angular 17, Angular Material, json-server |
+| [Social Media Website](https://github.com/KaduFallone/SocialMedia_Website) | Social media website frontend. | Angular, Angular Material, Firebase |
+| [Portfolio](https://github.com/KaduFallone/Portifolio) | Collection of smaller projects, including bank stock analysis with Python and a crypto trading bot. | Python, pandas, yfinance, Node.js, Angular |
+
+## Machine Learning Practice
+
+Personal practice with real datasets, using pandas, scikit-learn and statsmodels:
+
+- **Linear regression:** house prices, salary, advertising and energy consumption (R² between 0.87 and 0.93 on test data)
+- **Decision trees:** mushroom classification (99.8% accuracy), heart failure (85%) and stroke prediction
+- **Naive Bayes and random forest:** insurance dataset (up to 94% accuracy)
+
+## Certificates
+
+| Course | Platform | Date |
+|--------|----------|------|
+| [Developing Back-End Apps with Node.js and Express](https://coursera.org/verify/44H0TA6MT2T7) | IBM / Coursera | Oct 2026 |
+| [Algoritmos e Lógica de Programação](https://ude.my/UC-97db7a09-64d8-43ef-a7b6-d48d8131ca60) (Algorithms and Programming Logic), 31 hours | Udemy | Aug 2026 |
+| [Node.js do Zero a Maestria com diversos Projetos](https://ude.my/UC-a90da997-00fe-42c1-a06b-3a7c949cafe3) (Node.js from Zero to Mastery), 38 hours | Udemy | Jul 2026 |
+| [Banco de Dados SQL do Zero ao Avançado + Projetos Reais](https://ude.my/UC-3f77c882-deae-4039-9aad-3733a38fb1f9) (SQL Databases from Zero to Advanced), 8 hours | Udemy | Mar 2026 |
+
+## GitHub Stats
+
+<div align="center">
+
+<img align="top" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=KaduFallone&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&hide_rank=true" />
+<img align="top" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFallone&layout=compact&theme=tokyonight" />
+
+</div>
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-fallone-nascimento-de-oliveira)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadufallone@gmail.com)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
