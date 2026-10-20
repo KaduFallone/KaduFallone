@@ -2,7 +2,7 @@
 
 - I am a Computer Science student at UNIFEG (Centro Universitário da Fundação Educacional Guaxupé), a university in the small city of Guaxupé, Minas Gerais, Brazil.
 - I am currently a **full stack trainee** at a company that sells a sales force automation SaaS.
-- 
+ 
 ![Stats](https://github-readme-stats.vercel.app/api?username=KaduFallone&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaduFallone&layout=compact&theme=tokyonight)
 
