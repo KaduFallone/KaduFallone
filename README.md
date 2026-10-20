@@ -24,13 +24,13 @@
 
 | Project | Description | Built with |
 |---------|-------------|------------|
-| [LibrarySystem](https://github.com/KaduFallone/LibrarySystem) | Desktop library system using OOP and the MVC pattern (books, magazines, newspapers and readers). Presented at UNIFEG on April 28, 2026. | Java, Swing |
-| [Cozine Compiler](https://github.com/KaduFallone/Cozine-Compilador-) | Compiler for *Cozine*, a kitchen-themed teaching language. Runs lexical, syntactic and semantic analysis, then generates C++. | Python, C++ |
+| [LibrarySystem](https://github.com/KaduFallone/library-system_) | Desktop library system using OOP and the MVC pattern (books, magazines, newspapers and readers). Presented at UNIFEG on April 28, 2026. | Java, Swing |
+| [Cozine Compiler](https://github.com/KaduFallone/cozine-compiler-) | Compiler for *Cozine*, a kitchen-themed teaching language. Runs lexical, syntactic and semantic analysis, then generates C++. | Python, C++ |
 | [API CRUD](https://github.com/KaduFallone/API_CRUD_) | REST API for a to-do list with full CRUD, validation middleware and a MySQL database. | Node.js, Express, MySQL |
 | [Express Book Reviews](https://github.com/KaduFallone/expressBookReviews) | Back-end final project of the IBM Node.js and Express course: an online bookstore API with book routes and asynchronous requests with Axios. | Node.js, Express, Axios |
-| [Product Manager](https://github.com/KaduFallone/Gerenciado_de_produtos) | Product management app with list, create, edit and delete screens. | Angular 17, Angular Material, json-server |
-| [Social Media Website](https://github.com/KaduFallone/SocialMedia_Website) | Social media website frontend. | Angular, Angular Material, Firebase |
-| [Pokémon Game Website](https://github.com/KaduFallone/PokemonGameWebsite) | Pokémon-themed game website built as a single-page web app. | Angular, TypeScript |
+| [Product Manager](https://github.com/KaduFallone/inventory-manager) | Product management app with list, create, edit and delete screens. | Angular 17, Angular Material, json-server |
+| [Social Media Website](https://github.com/KaduFallone/social-media-website) | Social media website frontend. | Angular, Angular Material, Firebase |
+| [Pokémon Game Website](https://github.com/KaduFallone/pokemon-game-website) | Pokémon-themed game website built to practice managing users and consuming Firebase Hosting. | Angular, TypeScript, Firebase |
 | [Machine Learning Playground](https://github.com/KaduFallone/machine-learning-playground) | Notebooks with my machine learning practice on Kaggle datasets: regression, decision trees, Naive Bayes and random forests. | Python, pandas, scikit-learn, Jupyter |
 | [Stock Analysis](https://github.com/KaduFallone/stock-analysis) | Analysis of Brazilian bank stocks using market data. | Python, pandas, yfinance |
 | [Crypto Trading Bot](https://github.com/KaduFallone/crypto-trading-bot) | Cryptocurrency trading bot that connects to the Binance API. | Python, Jupyter Notebook |
