@@ -27,9 +27,13 @@
 | [LibrarySystem](https://github.com/KaduFallone/LibrarySystem) | Desktop library system using OOP and the MVC pattern (books, magazines, newspapers and readers). Presented at UNIFEG on April 28, 2026. | Java, Swing |
 | [Cozine Compiler](https://github.com/KaduFallone/Cozine-Compilador-) | Compiler for *Cozine*, a kitchen-themed teaching language. Runs lexical, syntactic and semantic analysis, then generates C++. | Python, C++ |
 | [API CRUD](https://github.com/KaduFallone/API_CRUD_) | REST API for a to-do list with full CRUD, validation middleware and a MySQL database. | Node.js, Express, MySQL |
+| [Express Book Reviews](https://github.com/KaduFallone/expressBookReviews) | Back-end final project of the IBM Node.js and Express course: an online bookstore API with book routes and asynchronous requests with Axios. | Node.js, Express, Axios |
 | [Product Manager](https://github.com/KaduFallone/Gerenciado_de_produtos) | Product management app with list, create, edit and delete screens. | Angular 17, Angular Material, json-server |
 | [Social Media Website](https://github.com/KaduFallone/SocialMedia_Website) | Social media website frontend. | Angular, Angular Material, Firebase |
-| [Portfolio](https://github.com/KaduFallone/Portifolio) | Collection of smaller projects, including bank stock analysis with Python and a crypto trading bot. | Python, pandas, yfinance, Node.js, Angular |
+| [Pokémon Game Website](https://github.com/KaduFallone/PokemonGameWebsite) | Pokémon-themed game website built as a single-page web app. | Angular, TypeScript |
+| [Machine Learning Playground](https://github.com/KaduFallone/machine-learning-playground) | Notebooks with my machine learning practice on Kaggle datasets: regression, decision trees, Naive Bayes and random forests. | Python, pandas, scikit-learn, Jupyter |
+| [Stock Analysis](https://github.com/KaduFallone/stock-analysis) | Analysis of Brazilian bank stocks using market data. | Python, pandas, yfinance |
+| [Crypto Trading Bot](https://github.com/KaduFallone/crypto-trading-bot) | Cryptocurrency trading bot that connects to the Binance API. | Python, Jupyter Notebook |
 
 ## Machine Learning Practice
 
@@ -59,7 +63,7 @@ Personal practice with real datasets, using pandas, scikit-learn and statsmodels
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-fallone-nascimento-de-oliveira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/carlos-eduardo-fallone-nascimento-de-oliveira)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadufallone@gmail.com)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
